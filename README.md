@@ -122,6 +122,7 @@
 - [QuickBooks](https://quickbooks.intuit.com/) – Accounting and bookkeeping software.
 - [Xero](https://www.xero.com/) – Cloud-based accounting platform for SMBs.
 - [FreshBooks](https://www.freshbooks.com/) – Invoicing and accounting for small businesses.
+- [KontoCSV](https://kontocsv.de) – Convert German bank statement PDFs to CSV, Excel, and DATEV.
 - [Wave](https://www.waveapps.com/) – Free accounting and invoicing tools.
 - [TaxJar](https://www.taxjar.com/) – Automated sales tax calculation and filing.
 
