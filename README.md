@@ -116,6 +116,7 @@
 - [Chainalysis](https://www.chainalysis.com/) – Blockchain analytics and compliance tools.
 - [Fireblocks](https://www.fireblocks.com/) – Secure digital asset custody and transfer platform.
 - [Alchemy](https://www.alchemy.com/) – Blockchain developer platform and APIs.
+- [PolicyLayer](https://policylayer.com/) – Non-custodial spending controls for AI agents handling crypto. Enforce limits, whitelists, and kill switches on any EVM wallet.
 
 ## Accounting, Invoicing & Tax
 
