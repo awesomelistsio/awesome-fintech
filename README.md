@@ -92,6 +92,7 @@
 - [Alpha Vantage](https://www.alphavantage.co/) – Free and paid APIs for market data.
 - [Polygon.io](https://polygon.io/) – Real-time and historical financial market data APIs.
 - [Quandl (Nasdaq Data Link)](https://data.nasdaq.com/) – Economic and financial datasets.
+- [Free Crypto Price API](https://crypto-price-landing.vercel.app) – Real-time prices for 275+ crypto assets via Hyperliquid. No API key, no rate limits, free forever.
 
 ## Fraud, Risk & Compliance
 
