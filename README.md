@@ -76,6 +76,7 @@
 - [Betterment](https://www.betterment.com/) – Digital wealth management platform.
 - [Interactive Brokers](https://www.interactivebrokers.com/) – Trading and brokerage APIs.
 - [Alpaca](https://alpaca.markets/) – API-first stock trading and brokerage platform.
+- [iGotFomo](https://igotfomo.com/) – AI-powered stock screener with convergence signals across 6,000+ stocks, options flow, backtesting, and free embeddable ticker widget.
 
 ## Personal Finance & Budgeting
 
