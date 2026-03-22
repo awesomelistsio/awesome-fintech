@@ -76,6 +76,7 @@
 - [Betterment](https://www.betterment.com/) – Digital wealth management platform.
 - [Interactive Brokers](https://www.interactivebrokers.com/) – Trading and brokerage APIs.
 - [Alpaca](https://alpaca.markets/) – API-first stock trading and brokerage platform.
+- [KeepRule](https://keeprule.com) – AI-powered investment principles platform. Learn from Buffett, Munger, and other masters with AI chat mentors.
 
 ## Personal Finance & Budgeting
 
