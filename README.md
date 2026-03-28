@@ -43,6 +43,7 @@
 - [Square](https://squareup.com/) – Payments and point-of-sale tools for businesses.
 - [Checkout.com](https://www.checkout.com/) – Cloud-based payment processing platform.
 - [Wise](https://wise.com/) – Cross-border payments with transparent exchange rates.
+- [Coinnect](https://coinnect.bot/) – Open money transfer routing that finds the cheapest path across fiat, crypto, and P2P networks.
 - [Payoneer](https://www.payoneer.com/) – Global payments platform for freelancers and marketplaces.
 
 ## Banking & Open Banking
