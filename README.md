@@ -92,6 +92,7 @@
 - [Alpha Vantage](https://www.alphavantage.co/) – Free and paid APIs for market data.
 - [Polygon.io](https://polygon.io/) – Real-time and historical financial market data APIs.
 - [Quandl (Nasdaq Data Link)](https://data.nasdaq.com/) – Economic and financial datasets.
+- [Congressional Stock Brain](https://congressionalstockbrain.com/) – Free AI tool that scores U.S. STOCK Act disclosures by significance, converting lawmaker trades into machine-scored signals ranked by committee relevance, timing, and disclosure delay.
 
 ## Fraud, Risk & Compliance
 
