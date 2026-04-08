@@ -116,6 +116,8 @@
 - [Chainalysis](https://www.chainalysis.com/) – Blockchain analytics and compliance tools.
 - [Fireblocks](https://www.fireblocks.com/) – Secure digital asset custody and transfer platform.
 - [Alchemy](https://www.alchemy.com/) – Blockchain developer platform and APIs.
+- [Augea](https://augea.io) - Snapshot-backed crypto exchange fee comparison across countries, assets, and payment rails. Every estimate links to a reproducible snapshot with transparent provenance.
+
 
 ## Accounting, Invoicing & Tax
 
