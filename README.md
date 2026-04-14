@@ -84,6 +84,7 @@
 - [Monzo](https://monzo.com/) – Digital bank with built-in budgeting tools.
 - [Revolut](https://www.revolut.com/) – Financial super app with banking, cards, and analytics.
 - [Emma](https://emma-app.com/) – Personal finance app for tracking spending and subscriptions.
+- [culta.ai](https://culta.ai) - Multi-entity financial management with budgeting, cash flow forecasting, and SaaS benchmarks.
 
 ## Financial Data & Market APIs
 
