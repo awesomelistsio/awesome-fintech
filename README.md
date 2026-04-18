@@ -128,6 +128,7 @@
 ## Developer Tools & Infrastructure
 
 - [Stripe API](https://stripe.com/docs/api) – APIs for payments, billing, and financial workflows.
+- [SaveMyChurn](https://savemychurn.com/) – AI-powered churn recovery for Stripe SaaS businesses.
 - [Plaid API](https://plaid.com/docs/) – Developer APIs for banking data access.
 - [Open Banking APIs](https://www.openbanking.org.uk/) – Standards-based financial APIs.
 - [AWS for Financial Services](https://aws.amazon.com/financial-services/) – Cloud infrastructure for FinTech workloads.
