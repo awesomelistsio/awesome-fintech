@@ -87,6 +87,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Monzo](https://monzo.com/) – Digital bank with built-in budgeting tools.
 - [Revolut](https://www.revolut.com/) – Financial super app with banking, cards, and analytics.
 - [Emma](https://emma-app.com/) – Personal finance app for tracking spending and subscriptions.
+- [Sweepbase](https://sweepbase.net/) – Aggregator comparing 139 crypto debit and credit cards by real fees.
 
 ## Financial Data & Market APIs
 
