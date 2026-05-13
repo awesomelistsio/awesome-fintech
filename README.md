@@ -95,6 +95,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Alpha Vantage](https://www.alphavantage.co/) – Free and paid APIs for market data.
 - [Polygon.io](https://polygon.io/) – Real-time and historical financial market data APIs.
 - [Quandl (Nasdaq Data Link)](https://data.nasdaq.com/) – Economic and financial datasets.
+- [Sharpe](https://www.sharpe.ai/docs/free-api) – Crypto market intelligence API for derivatives positioning, funding rates, arbitrage, narratives, exchange listings, and news.
 
 ## Fraud, Risk & Compliance
 
