@@ -111,6 +111,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Sumsub](https://sumsub.com/) – KYC, KYB, and AML compliance platform.
 - [Jumio](https://www.jumio.com/) – AI-powered identity verification services.
 - [ComplyAdvantage](https://complyadvantage.com/) – AML risk intelligence and screening.
+- [Komos](https://www.komos.ai/solutions/finance) – Browser automation platform for regulated financial operations, including bank portal reconciliation, statement retrieval, evidence capture, and exception queue updates.
 
 ## Blockchain & Crypto Infrastructure
 
