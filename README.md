@@ -79,6 +79,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Betterment](https://www.betterment.com/) – Digital wealth management platform.
 - [Interactive Brokers](https://www.interactivebrokers.com/) – Trading and brokerage APIs.
 - [Alpaca](https://alpaca.markets/) – API-first stock trading and brokerage platform.
+- [Finterm](https://finterm.xyz) – Browser-based financial terminal with stock and crypto charts, SEC filing fundamentals, and a strategy backtester.
 
 ## Personal Finance & Budgeting
 
