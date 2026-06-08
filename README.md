@@ -119,6 +119,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Chainalysis](https://www.chainalysis.com/) – Blockchain analytics and compliance tools.
 - [Fireblocks](https://www.fireblocks.com/) – Secure digital asset custody and transfer platform.
 - [Alchemy](https://www.alchemy.com/) – Blockchain developer platform and APIs.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) – Trust scoring for Solana AI agent wallets with x402 micropayment verification; MCP server for agent identity and payment readiness checks.
 
 ## Accounting, Invoicing & Tax
 
