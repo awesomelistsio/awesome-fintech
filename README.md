@@ -119,6 +119,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Chainalysis](https://www.chainalysis.com/) – Blockchain analytics and compliance tools.
 - [Fireblocks](https://www.fireblocks.com/) – Secure digital asset custody and transfer platform.
 - [Alchemy](https://www.alchemy.com/) – Blockchain developer platform and APIs.
+- [Ramp Radar](https://rampradar.online/) – Stablecoin on/off-ramp route intelligence and provider status monitoring.
 
 ## Accounting, Invoicing & Tax
 
