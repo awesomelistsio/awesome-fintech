@@ -94,6 +94,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Refinitiv](https://www.refinitiv.com/) – Market data and financial infrastructure provider.
 - [Alpha Vantage](https://www.alphavantage.co/) – Free and paid APIs for market data.
 - [Polygon.io](https://polygon.io/) – Real-time and historical financial market data APIs.
+- [Eulerpool](https://eulerpool.com/financial-data-api) – Financial data API for equities, ETFs, funds, crypto, forex, bonds, and macro (FRED/ECB/IMF/World Bank) with fundamentals, estimates, ownership and screeners. Free tier; includes an MCP server for AI agents.
 - [Quandl (Nasdaq Data Link)](https://data.nasdaq.com/) – Economic and financial datasets.
 
 ## Fraud, Risk & Compliance
