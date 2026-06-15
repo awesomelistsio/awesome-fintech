@@ -110,6 +110,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Trulioo](https://www.trulioo.com/) – Global identity verification APIs.
 - [Sumsub](https://sumsub.com/) – KYC, KYB, and AML compliance platform.
 - [Jumio](https://www.jumio.com/) – AI-powered identity verification services.
+- [Argus](https://github.com/tecnosor/argus-framework) – Banking compliance SDLC framework for AI agents. Enforces GDPR, DORA, MiCA, PSD2, PCI-DSS across the software lifecycle with 5 specialized agents.
 - [ComplyAdvantage](https://complyadvantage.com/) – AML risk intelligence and screening.
 
 ## Blockchain & Crypto Infrastructure
