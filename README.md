@@ -94,6 +94,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Refinitiv](https://www.refinitiv.com/) – Market data and financial infrastructure provider.
 - [Alpha Vantage](https://www.alphavantage.co/) – Free and paid APIs for market data.
 - [Polygon.io](https://polygon.io/) – Real-time and historical financial market data APIs.
+- [Exchange Rate API](https://exchange-rateapi.com) – Real-time foreign exchange rates for 160+ currencies with a free tier and official SDKs.
 - [Quandl (Nasdaq Data Link)](https://data.nasdaq.com/) – Economic and financial datasets.
 
 ## Fraud, Risk & Compliance
