@@ -103,6 +103,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Riskified](https://www.riskified.com/) – E-commerce fraud and chargeback protection.
 - [Feedzai](https://feedzai.com/) – AI-powered fraud detection for financial institutions.
 - [Featurespace](https://www.featurespace.com/) – Anomaly detection for financial crime.
+- [ChargebackKit Reason Code Database](https://chargebackkit.app/reason-codes/) – Free, source-cited reference of 64 active Visa, Mastercard, Amex & Discover chargeback reason codes with meaning, response deadline, and evidence.
 
 ## RegTech & Identity
 
