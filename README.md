@@ -77,6 +77,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Robinhood](https://robinhood.com/) – Commission-free investing platform.
 - [Wealthfront](https://www.wealthfront.com/) – Robo-advisor for automated investing.
 - [Betterment](https://www.betterment.com/) – Digital wealth management platform.
+- [Find My Moat](https://www.findmymoat.com/) - Investing tools directory for discovering stock research, screening, portfolio, and moat-analysis platforms.
 - [Interactive Brokers](https://www.interactivebrokers.com/) – Trading and brokerage APIs.
 - [Alpaca](https://alpaca.markets/) – API-first stock trading and brokerage platform.
 
