@@ -146,6 +146,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ### Guides
 - [Embedded Finance Explained](https://www.mckinsey.com/) – Overview of embedded financial services.
+- [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/) – Patterns for building software that handles money.
 - [FinTech Regulatory Landscape](https://www.bis.org/) – Global regulatory perspectives on FinTech.
 - [Open Banking Guide](https://www.openbanking.org.uk/) – Best practices for open banking adoption.
 
