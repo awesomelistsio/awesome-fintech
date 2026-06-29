@@ -90,6 +90,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Financial Data & Market APIs
 
+- [Adanos](https://adanos.org/) – Market sentiment API for stocks and crypto using Reddit, X / FinTwit, financial news, and Polymarket signals.
 - [Bloomberg](https://www.bloomberg.com/professional/) – Financial data, analytics, and news platform.
 - [Refinitiv](https://www.refinitiv.com/) – Market data and financial infrastructure provider.
 - [Alpha Vantage](https://www.alphavantage.co/) – Free and paid APIs for market data.
