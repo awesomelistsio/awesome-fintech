@@ -128,6 +128,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [FreshBooks](https://www.freshbooks.com/) – Invoicing and accounting for small businesses.
 - [Wave](https://www.waveapps.com/) – Free accounting and invoicing tools.
 - [TaxJar](https://www.taxjar.com/) – Automated sales tax calculation and filing.
+- [AI Finance Tools](https://aifinancetools.co/) – Independent directory of AI-powered finance tools across payroll, AP, expenses, and more, each scored on five editorial dimensions.
 
 ## Developer Tools & Infrastructure
 
