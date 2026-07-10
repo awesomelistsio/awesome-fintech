@@ -59,6 +59,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 ## Cards & Issuing
 
 - [Marqeta](https://www.marqeta.com/) – Card issuing and payment processing platform.
+- [OPEN RAMBO](https://openrambo.com/en/card-issuing-api/) – Virtual and physical card issuing platform with USDT funding, card controls, transaction records, and partner API access.
 - [Stripe Issuing](https://stripe.com/issuing) – APIs for creating and managing virtual and physical cards.
 - [Adyen Issuing](https://www.adyen.com/card-issuing) – End-to-end card issuing solution.
 - [Unit](https://www.unit.co/) – Embedded finance platform with card issuing and banking.
