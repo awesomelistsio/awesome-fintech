@@ -148,6 +148,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Embedded Finance Explained](https://www.mckinsey.com/) – Overview of embedded financial services.
 - [FinTech Regulatory Landscape](https://www.bis.org/) – Global regulatory perspectives on FinTech.
 - [Open Banking Guide](https://www.openbanking.org.uk/) – Best practices for open banking adoption.
+- [Offshore Black Book](https://offshoreblackbook.com/) – Research-based offshore tax, asset protection, and international structuring guides.
 
 ### Courses
 - *Introduction to FinTech* – Overview of modern financial technologies.
