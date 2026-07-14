@@ -95,6 +95,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Alpha Vantage](https://www.alphavantage.co/) – Free and paid APIs for market data.
 - [Polygon.io](https://polygon.io/) – Real-time and historical financial market data APIs.
 - [Eulerpool](https://eulerpool.com/financial-data-api) – Financial data API for equities, ETFs, crypto, forex, bonds, and macroeconomic datasets.
+- [GridNews](https://gridnews.io) – Market news, press releases, and sentiment analysis API with breaking-news streaming.
 - [Quandl (Nasdaq Data Link)](https://data.nasdaq.com/) – Economic and financial datasets.
 
 ## Fraud, Risk & Compliance
