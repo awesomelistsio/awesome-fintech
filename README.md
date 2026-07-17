@@ -55,6 +55,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [TrueLayer](https://truelayer.com/) – Open banking APIs for payments and data access.
 - [Yapily](https://www.yapily.com/) – Open banking infrastructure for financial services.
 - [Solaris](https://www.solarisgroup.com/) – Banking-as-a-Service platform for embedded finance.
+- [open-banking.io](https://open-banking.io/) – Open-source, self-hosted open banking API for cert-free PSD2 bank-data access.
 
 ## Cards & Issuing
 
