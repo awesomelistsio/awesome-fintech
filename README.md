@@ -128,6 +128,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [FreshBooks](https://www.freshbooks.com/) – Invoicing and accounting for small businesses.
 - [Wave](https://www.waveapps.com/) – Free accounting and invoicing tools.
 - [TaxJar](https://www.taxjar.com/) – Automated sales tax calculation and filing.
+- [Renamer.ai](https://renamer.ai) - AI tool that reads invoice and financial document content via OCR and renames the files with descriptive, content-aware names.
 
 ## Developer Tools & Infrastructure
 
