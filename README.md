@@ -87,6 +87,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Monzo](https://monzo.com/) – Digital bank with built-in budgeting tools.
 - [Revolut](https://www.revolut.com/) – Financial super app with banking, cards, and analytics.
 - [Emma](https://emma-app.com/) – Personal finance app for tracking spending and subscriptions.
+- [Nutilz Car Lease Calculator](https://nutilz.com/car-lease-calculator) – Free browser-based calculator for estimating monthly car lease payments from cap cost, residual value, and money factor.
 
 ## Financial Data & Market APIs
 
