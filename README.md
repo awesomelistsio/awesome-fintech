@@ -128,6 +128,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [FreshBooks](https://www.freshbooks.com/) – Invoicing and accounting for small businesses.
 - [Wave](https://www.waveapps.com/) – Free accounting and invoicing tools.
 - [TaxJar](https://www.taxjar.com/) – Automated sales tax calculation and filing.
+- [Svensk Skatte-API](https://skatteapi.gracestack.se) – REST API for Swedish tax calculations including ISK, VAT, income tax, and employer contributions. Free tier with 30 req/min. Pro tier 99kr/mån.
 
 ## Developer Tools & Infrastructure
 
