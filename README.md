@@ -63,6 +63,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Adyen Issuing](https://www.adyen.com/card-issuing) – End-to-end card issuing solution.
 - [Unit](https://www.unit.co/) – Embedded finance platform with card issuing and banking.
 - [Synapse](https://synapsefi.com/) – Banking and card issuing APIs for FinTechs.
+- [OpenCard DB](https://github.com/thedavidweng/opencard-db) – Open dataset of 189 credit card products across the US, Canada, and China, with structured metadata on issuer, network, fees, rewards, and benefits. JSON/CSV/YAML exports and a read-only REST API. CC BY 4.0.
 
 ## Lending & Credit
 
