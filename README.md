@@ -104,6 +104,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Riskified](https://www.riskified.com/) – E-commerce fraud and chargeback protection.
 - [Feedzai](https://feedzai.com/) – AI-powered fraud detection for financial institutions.
 - [Featurespace](https://www.featurespace.com/) – Anomaly detection for financial crime.
+- [MerchantReady](https://merchantready.org/) – Merchant risk readiness review for policy clarity, KYC material, subscription transparency, and chargeback evidence before payment processor reviews.
 
 ## RegTech & Identity
 
