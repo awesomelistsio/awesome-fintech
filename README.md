@@ -73,6 +73,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Zopa](https://www.zopa.com/) – Digital bank offering loans and savings products.
 
 ## Wealth Management & Investing
+* [Pineify](https://pineify.app/) – AI-assisted trading workflow for creating TradingView strategies in Pine Script, screening markets, optimizing parameters, and analyzing backtests.
 
 - [Robinhood](https://robinhood.com/) – Commission-free investing platform.
 - [Wealthfront](https://www.wealthfront.com/) – Robo-advisor for automated investing.
