@@ -136,6 +136,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Open Banking APIs](https://www.openbanking.org.uk/) – Standards-based financial APIs.
 - [AWS for Financial Services](https://aws.amazon.com/financial-services/) – Cloud infrastructure for FinTech workloads.
 - [Google Cloud for FinTech](https://cloud.google.com/solutions/financial-services) – Cloud services for financial applications.
+- [IBAN Checker](https://ibanchecker.cash/) – Free API and tools for IBAN/BIC validation, format lookup, and SEPA scheme checks across 92 countries.
 
 ## Learning Resources
 
