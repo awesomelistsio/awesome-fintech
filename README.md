@@ -96,6 +96,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Polygon.io](https://polygon.io/) – Real-time and historical financial market data APIs.
 - [Eulerpool](https://eulerpool.com/financial-data-api) – Financial data API for equities, ETFs, crypto, forex, bonds, and macroeconomic datasets.
 - [Quandl (Nasdaq Data Link)](https://data.nasdaq.com/) – Economic and financial datasets.
+- [Banking Access Index](https://www.globalsolo.global/data/banking-access-index) – CC-BY dataset of which US business banking providers accept non-resident founders, by country.
 
 ## Fraud, Risk & Compliance
 
