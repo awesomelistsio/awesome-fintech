@@ -96,6 +96,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Polygon.io](https://polygon.io/) – Real-time and historical financial market data APIs.
 - [Eulerpool](https://eulerpool.com/financial-data-api) – Financial data API for equities, ETFs, crypto, forex, bonds, and macroeconomic datasets.
 - [Quandl (Nasdaq Data Link)](https://data.nasdaq.com/) – Economic and financial datasets.
+- [XFINLAB Intelligence API](https://www.xfinlab.com/intelligence-api.html) – Financial data API (25+ REST endpoints) covering SEC filings, insider trades, institutional ownership, sentiment, technicals, and consumer-safety data; every field is a real value or null with an explanation, never fabricated. Free tier issued instantly, no card.
 
 ## Fraud, Risk & Compliance
 
