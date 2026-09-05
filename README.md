@@ -1,4 +1,4 @@
-# Awesome FinTech [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome FinTech [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1116261020.svg)](https://doi.org/10.5281/zenodo.19673345)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -156,11 +156,11 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- [Awesome Finance](https://github.com/awesomelistsio/awesome-finance)
-- [Awesome Payments](https://github.com/awesomelistsio/awesome-payments)
-- [Awesome APIs](https://github.com/awesomelistsio/awesome-apis)
-- [Awesome Blockchain](https://github.com/awesomelistsio/awesome-blockchain)
-- [Awesome SaaS](https://github.com/awesomelistsio/awesome-saas)
+- [Awesome Finance](https://github.com/brandonhimpfen/awesome-finance)
+- [Awesome Payments](https://github.com/brandonhimpfen/awesome-payments)
+- [Awesome APIs](https://github.com/brandonhimpfen/awesome-apis)
+- [Awesome Blockchain](https://github.com/brandonhimpfen/awesome-blockchain)
+- [Awesome SaaS](https://github.com/brandonhimpfen/awesome-saas)
 
 ## Contribute
 
