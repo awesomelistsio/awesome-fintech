@@ -71,6 +71,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Kabbage](https://www.kabbage.com/) – Small business lending and cash flow tools.
 - [Lendio](https://www.lendio.com/) – Online marketplace for small business loans.
 - [Zopa](https://www.zopa.com/) – Digital bank offering loans and savings products.
+- [AccessFundsNow](https://www.accessfundsnow.com/) – Connects real estate investors with funding for earnest money, fix-and-flip loans, and down payments.
 
 ## Wealth Management & Investing
 
